@@ -6,4 +6,5 @@ int main() {
 	std::cout << "i dont wanna do it )" << std::endl;
 	std::cout << "u want some changes ?" << std::endl;
 	std::cout << "this is my FIRST change!" << std::endl;
+	std::cout << "my second change" << std::endl;
 }
